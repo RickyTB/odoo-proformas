@@ -1,0 +1,6 @@
+id,name,model_id:id,group_id:id,perm_read,perm_write,perm_create,perm_unlink
+access_proformas_proforma,proformas.proforma,model_proformas_proforma,base.group_user,1,1,1,1
+access_proformas_partida,proformas.partida,model_proformas_partida,base.group_user,1,1,1,1
+access_proformas_institution,proformas.institution,model_proformas_institution,base.group_user,1,1,1,1
+access_proformas_area_org,proformas.area_org,model_proformas_area_org,base.group_user,1,1,1,1
+access_proformas_area_geo,proformas.area_geo,model_proformas_area_geo,base.group_user,1,1,1,1
