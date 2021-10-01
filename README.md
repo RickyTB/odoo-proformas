@@ -5,9 +5,9 @@ Para Odoo
 ## Integrantes
 
 - Sebastián Arellano: Levantamiento de modulo
-- Ricardo Baquero: Conexion a la base de datos
-- Samantha Huaca: Creacion de  menus
-- Mayra Tituaña: Creacion de partidas
+- Mayra Tituaña: Conexion a la base de datos
+- Ricardo Baquero: Creacion de  menus 
+- Samantha Huaca: Creacion de partidas 
 
 Proyecto de Titulación
 
